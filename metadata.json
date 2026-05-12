@@ -1,0 +1,6 @@
+{
+  "name": "PDF Trace",
+  "description": "A semi-transparent PDF overlay tool for tracing layouts into Word. Features adjustable transparency, always-on-top PiP mode, and precision controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Segoe UI", -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+  --font-mono: 'Courier New', Courier, monospace;
+}
+
+:root {
+  --win-bg: #f3f3f3;
+  --win-chrome: #ffffff;
+  --accent-blue: #0078d4;
+  --text-main: #1a1a1a;
+  --text-secondary: #5e5e5e;
+  --panel-bg: rgba(255, 255, 255, 0.95);
+  --toolbar-bg: #2b2b2b;
+  --toolbar-text: #ffffff;
+  --border-color: #e5e5e5;
+}
+
+body {
+  background-color: #004578;
+  color: var(--text-main);
+}
